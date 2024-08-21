@@ -1,0 +1,15 @@
+
+  coord.innerHTML = response.coord
+  weather.innerHTML = response.weather
+  base.innerHTML = response.base
+  stations.innerHTML = response.stations
+  main.innerHTML = response.main
+  visibility.innerHTML = response.visibility
+  wind.innerHTML = response.wind
+  clouds.innerHTML = response.clouds 
+  dt.innerHTML = response.dt
+  sys.innerHTML = response.sys
+  timezone.innerHTML = response.timezone
+  id.innerHTML = response.id
+  name.innerHTML = response.name
+  cod.innerHTML = response.cod
